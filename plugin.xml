@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-app-info" version="0.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="az-cordova-plugin-app-info" version="0.0.2">
   <name>App Info</name>
   <description>Cordova Plugin Info</description>
   <license>Apache 2.0</license>

@@ -1,16 +1,16 @@
 {
   "name": "az-cordova-plugin-app-info",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Cordova Plugin Info",
   "cordova": {
-    "id": "cordova-plugin-app-info",
+    "id": "az-cordova-plugin-app-info",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayyazzafar/cordova-plugin-app-info.git"
+    "url": "git+https://github.com/ayyazzafar/az-cordova-plugin-app-info.git"
   },
   "keywords": [
     "cordova",

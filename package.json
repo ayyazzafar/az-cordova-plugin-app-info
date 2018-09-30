@@ -1,23 +1,28 @@
 {
-    "version": "0.0.0",
-    "name": "cordova-plugin-template",
-    "cordova_name": "CordovaPluginTemplate",
-    "description": "Cordova Plugin Template",
-    "license": "Apache 2.0",
-    "author": {
-        "name": "Raphael Hirtenfelder",
-        "email": "hirtenfelder@bluewin.ch"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hirtenfelder/cordova-plugin-template.git"
-    },
-    "bugs": {
-        "url": "https://github.com/hirtenfelder/cordova-plugin-template/issues"
-    },
-    "keywords": [
-        "cordova",
-        "plugin",
-        "template"
+  "name": "cordova-plugin-app-info",
+  "version": "0.0.0",
+  "description": "Cordova Plugin Info",
+  "cordova": {
+    "id": "cordova-plugin-app-info",
+    "platforms": [
+      "android"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyazzafar/cordova-plugin-template.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "appInfo",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ayyaz Zafar",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/ayyazzafar/cordova-plugin-template/issues"
+  },
+  "homepage": "https://github.com/ayyazzafar/cordova-plugin-template#readme"
 }

@@ -6,10 +6,10 @@ var AppInfo = (function () {
 
     function AppInfo() {}
 
-    AppInfo.prototype.echo = function (echoValue, successCallback) {
+    AppInfo.prototype.getVersionNumber = function (successCallback) {
         cordova.exec(successCallback, function () {
             console.log('Error')
-        }, 'AppInfo', 'echo', [echoValue]);
+        }, 'AppInfo', 'getVersionNumber', []);
     };
 
     return AppInfo;

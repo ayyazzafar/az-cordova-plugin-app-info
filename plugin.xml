@@ -14,7 +14,7 @@
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="AppInfo" >
-        <param name="android-package" value="cordova.plugin.app.info"/>
+        <param name="android-package" value="cordova.plugin.AppInfo"/>
       </feature>
     </config-file>
 
